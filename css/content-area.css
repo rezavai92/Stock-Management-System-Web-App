@@ -1,0 +1,181 @@
+﻿.content-area {
+    margin-left: 260px;
+    padding: 15px;
+    width: 80%;
+    height: available;
+
+}
+
+.heading {
+    width: 50%;
+}
+.heading h1 {
+    color: purple;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding-bottom: 2px;
+    width:100%;
+    float: left;
+    height: auto;
+ }
+
+.heading p {
+    color: #1b1b1b;
+    font-size: 16px;
+    margin-bottom: 5px;
+   }
+
+.container {
+    margin: 0;
+    height: 100%;
+    
+
+}
+
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen {
+    .cards {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+      }  
+}
+
+
+.card {
+    flex-direction: column;
+    float: left;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin:20px 0 0 20px;
+    padding: 20px 3px;
+    transition: 0.3s;
+    width: 230px;
+    height: 130px;
+
+}
+
+img {
+    height: 92px;
+    width: 232px;
+}
+
+.card:hover {
+    background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+   }
+
+
+
+
+.contents {
+    margin-top: 15px;
+    padding: 15px;
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+
+
+#viewSaleGridView {
+   border-collapse: collapse;
+    width: 70%;
+
+}
+
+   #viewSaleGridView th,td {
+        text-align: left;
+        padding: 8px;
+
+
+
+    } 
+
+   #viewSaleGridView tr:nth-child(odd) {
+       background-color: #f6e3ff;
+   }
+  
+
+  #viewSaleGridView th {
+        background-color: purple;
+        color: whitesmoke;
+    } 
+
+  #searchGridView {
+      border-collapse: collapse;
+    width: 70%;
+  } 
+
+  #searchGridView  th,td {
+        text-align: left;
+        padding: 8px;
+  } 
+
+  #searchGridView  th {
+
+        background-color: purple;
+        color: whitesmoke;
+    } 
+
+  #stockOutGridView {
+      border-collapse: collapse;
+    width: 70%;
+  } 
+
+  #stockOutGridView th,td {
+        text-align: left;
+        padding: 8px;
+  } 
+
+  #stockOutGridView th {
+
+        background-color: purple;
+        color: whitesmoke;
+    } 
+
+  #categoryGridView {
+       border-collapse: collapse;
+    width: 70%;
+  } 
+
+ #categoryGridView th,td {
+        text-align: left;
+        padding: 8px;
+ } 
+
+ #categoryGridView  th {
+
+        background-color: purple;
+        color: whitesmoke;
+    } 
+
+ #companyGridView {
+     
+      border-collapse: collapse;
+    width: 70%;
+ } 
+
+ #companyGridView th,td {
+        text-align: left;
+        padding: 8px;
+ } 
+
+ #companyGridView th {
+
+        background-color: purple;
+        color: whitesmoke;
+    } 
+
+ #logOutButton {
+     float: right;
+ }
+
+
+  

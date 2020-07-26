@@ -1,0 +1,24 @@
+c:\users\rezav\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+c:\users\rezav\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+c:\users\rezav\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+c:\users\rezav\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\rezav\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+c:\users\rezav\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+E:\Muzahid\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+E:\Muzahid\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+E:\Muzahid\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+E:\Muzahid\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\Muzahid\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+E:\Muzahid\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+D:\SEIP_BITM_DotNet\BITM PROJECTS\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+D:\SEIP_BITM_DotNet\BITM PROJECTS\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+D:\SEIP_BITM_DotNet\BITM PROJECTS\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+D:\SEIP_BITM_DotNet\BITM PROJECTS\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+D:\SEIP_BITM_DotNet\BITM PROJECTS\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+D:\SEIP_BITM_DotNet\BITM PROJECTS\TEAM ACCEPTED\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+F:\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+F:\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+F:\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+F:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+F:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+F:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
